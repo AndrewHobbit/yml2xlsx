@@ -35,6 +35,7 @@ pip install pandas openpyxl pyperclip
 ```bash
 python yml2xlsx.py
 ```
+<img width="718" height="652" alt="image" src="https://github.com/user-attachments/assets/55592732-8bc3-44d9-9239-1bd1ea804235" />
 
 ## Как пользоваться
 
